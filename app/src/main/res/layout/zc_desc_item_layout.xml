@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:background="@drawable/zc_item_bg"
+    android:orientation="vertical" >
+
+    <RelativeLayout
+        android:id="@+id/zc_info_rl"
+        android:layout_width="match_parent"
+        android:layout_height="24dp"
+        android:background="#84B677"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/zc_mc"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/zc_mx_margin"
+            android:text="笔记本电脑"
+            android:textColor="@color/white" />
+
+        <TextView
+            android:id="@+id/check_flag_tv"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/zc_mx_margin"
+            android:text="已清查"
+            android:textColor="@color/white" />
+    </RelativeLayout>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="36dp"
+        android:gravity="center_vertical" >
+
+        <TextView
+            android:id="@+id/zc_ggxh"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/zc_mx_margin"
+            android:text="Think Pad 240"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+
+        <TextView
+            android:id="@+id/zc_rq"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/zc_mx_margin"
+            android:text="2015-08-09"
+            android:textColor="@color/white"
+            android:textSize="16sp" />
+    </RelativeLayout>
+
+</LinearLayout>

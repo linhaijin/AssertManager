@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <color name="result_view">#b0000000</color>
+    <color name="viewfinder_mask">#60000000</color>
+    <color name="possible_result_points">#c0ffff00</color>
+    <color name="red">#FF0000</color>
+    <color name="orange">#FCBB2F</color>
+    <color name="bg_color">#EBEBEB</color>
+    <color name="white">#FFFFFF</color>
+    <color name="dark_grey">#D9D9D9</color>
+    <color name="dark_blue">#2AA994</color>
+    <color name="light_blue">#2EB8A8</color>
+    <color name="diver">#cccccc</color>
+    <color name="orange_text_color">#B97A28</color>
+    <color name="grey_text_color">#929293</color>
+    <color name="light_white_text_color">#A39D91</color>
+<color name="green_text_color">#7CAB70</color>
+</resources>

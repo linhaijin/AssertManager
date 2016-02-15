@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background" >
+
+    <com.example.assertmanager.view.TopBar
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+    <EditText
+        android:id="@+id/zc_bh_et"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/topbar"
+        android:layout_margin="@dimen/zc_mx_margin"
+        android:background="@drawable/edittext_bg"
+        android:hint="@string/zc_bh_promt"
+        android:inputType="number"
+        android:paddingLeft="5dp"
+        android:singleLine="true"
+        android:textColor="@color/white"
+        android:textCursorDrawable="@null" />
+
+    <Button
+        android:id="@+id/retrieve_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_below="@id/zc_bh_et"
+        android:layout_marginLeft="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button1_bg"
+        android:minWidth="80dp"
+        android:text="@string/str_retrieve"
+        android:textColor="@color/white" />
+
+    <Button
+        android:id="@+id/clear_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentRight="true"
+        android:layout_below="@id/zc_bh_et"
+        android:layout_marginRight="50dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button1_bg"
+        android:minWidth="80dp"
+        android:text="@string/str_clear"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

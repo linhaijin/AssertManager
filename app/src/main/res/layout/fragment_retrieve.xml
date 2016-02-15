@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background"
+    android:orientation="vertical" >
+
+    <ScrollView
+        android:layout_height="0dp"
+        android:layout_width="match_parent"
+        android:layout_weight="1" >
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="@dimen/zc_mx_margin"
+            android:orientation="vertical" >
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:text="资产编号"
+                android:textColor="@color/green_text_color"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/zcbm_et"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/green_bg"
+                android:inputType="number"
+                android:paddingLeft="5dp"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textCursorDrawable="@null"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="资产名称"
+                android:textColor="@color/green_text_color"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/zcmc_et"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/green_bg"
+                android:paddingLeft="5dp"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textCursorDrawable="@null"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="规格型号"
+                android:textColor="@color/green_text_color"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/zcggxh_et"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/green_bg"
+                android:paddingLeft="5dp"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textCursorDrawable="@null"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical"
+                android:text="资产科目"
+                android:textColor="@color/green_text_color"
+                android:textSize="16sp" />
+
+            <com.example.assertmanager.view.MutipleSpnnier
+                android:id="@+id/assert_type_sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical"
+                android:text="使用部门"
+                android:textColor="@color/green_text_color"
+                android:textSize="16sp" />
+
+            <com.example.assertmanager.view.MutipleSpnnier
+                android:id="@+id/department_use_sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" />
+
+            <TextView
+                android:layout_width="wrap_content"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:text="保管人"
+                android:textColor="@color/green_text_color"
+                android:textSize="16sp" />
+
+            <EditText
+                android:id="@+id/zcbgr_et"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/green_bg"
+                android:paddingLeft="5dp"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textCursorDrawable="@null"
+                android:textStyle="bold" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical"
+                android:text="管理部门"
+                android:textColor="@color/green_text_color"
+                android:textSize="16sp" />
+
+            <com.example.assertmanager.view.MutipleSpnnier
+                android:id="@+id/department_manager_sp"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content" >
+            </com.example.assertmanager.view.MutipleSpnnier>
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:layout_marginTop="5dp"
+                android:gravity="center_vertical"
+                android:text="摘要"
+                android:textColor="@color/green_text_color"
+                android:textSize="16sp" />
+
+            <EditText
+                android:layout_marginBottom="20dp"
+                android:id="@+id/zczy_et"
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:background="@drawable/green_bg"
+                android:paddingLeft="5dp"
+                android:singleLine="true"
+                android:textColor="@color/white"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </ScrollView>
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="80dp"
+        android:layout_alignParentBottom="true"
+        android:background="@drawable/check_main_bg" >
+
+        <Button
+            android:id="@+id/retrieve_btn"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_centerVertical="true"
+            android:layout_marginLeft="20dp"
+            android:background="@drawable/button1_bg"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/str_retrieve"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+
+        <Button
+            android:id="@+id/clear_btn"
+            android:layout_width="120dp"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_centerVertical="true"
+            android:layout_marginBottom="@dimen/zc_mx_margin"
+            android:layout_marginRight="20dp"
+            android:background="@drawable/button1_bg"
+            android:gravity="center"
+            android:padding="5dp"
+            android:text="@string/str_clear"
+            android:textColor="@color/white"
+            android:textStyle="bold" />
+    </RelativeLayout>
+
+</LinearLayout>

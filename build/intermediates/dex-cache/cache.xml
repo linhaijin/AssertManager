@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        jar="E:\Workspace\Android\AssertManager\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="5c5699834e9722f1c288fea2de82725d078ba127">
+        <dex dex="E:\Workspace\Android\AssertManager\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.1.1_2b9e8ee3c9206b85d7ecd517e9447fedfea85609.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\Android\AssertManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\libs\internal_impl-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="a4de9c81ae239414e1ed0f86441b02abaf29bca9">
+        <dex dex="E:\Workspace\Android\AssertManager\app\build\intermediates\pre-dexed\debug\internal_impl-23.1.1_608d94b7ae82dd99612114d840b60ab66cdead81.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\Android\AssertManager\app\libs\zxing.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="e88c14e6e7daa0fa65172a62b54ee6a16ff4162d">
+        <dex dex="E:\Workspace\Android\AssertManager\app\build\intermediates\pre-dexed\debug\zxing_20520a4c963553505b6e3d88ecf4165237c6d24a.jar" />
+    </item>
+    <item
+        jar="E:\Workspace\Android\AssertManager\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.1.1\jars\classes.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="6cbc7773921fcfedbe55657578f0cbfe614778dc">
+        <dex dex="E:\Workspace\Android\AssertManager\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.1.1_6a822f74f141aeef74b4c265871e4093f253e46f.jar" />
+    </item>
+    <item
+        jar="D:\SDK\Xingfeng\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.1.1\support-annotations-23.1.1.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="8d680ba5a623724d1fb0e81c36a790f023a6cede">
+        <dex dex="E:\Workspace\Android\AssertManager\app\build\intermediates\pre-dexed\debug\support-annotations-23.1.1_c27928e76d4a570f94247b92d9eb2f586f9b4c62.jar" />
+    </item>
+    <item
+        jar="C:\Users\Xingfeng\.gradle\caches\modules-2\files-2.1\com.google.guava\guava\14.0\67b7be4ee7ba48e4828a42d6d5069761186d4a53\guava-14.0.jar"
+        jumboMode="false"
+        revision="23.0.2"
+        sha1="67b7be4ee7ba48e4828a42d6d5069761186d4a53">
+        <dex dex="E:\Workspace\Android\AssertManager\app\build\intermediates\pre-dexed\debug\guava-14.0_0b00b364f09f66473c4fa45ed43072d8c27276d8.jar" />
+    </item>
+
+</items>

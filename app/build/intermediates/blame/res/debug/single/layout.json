@@ -1,0 +1,266 @@
+[
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_zc_mx.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_zc_mx.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_cancel_action.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_chronometer.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_content_include.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_content_include.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media_narrow.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_part_time.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_part_time.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\support_simple_spinner_dropdown_item.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple_overlay_action_mode.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_checkzcmx.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_checkzcmx.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_simple.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_simple.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_image_show.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_image_show.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_test.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_test.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\slection_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\slection_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_screen_toolbar.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_select_dialog_material.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_title_item.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_scan.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\fragment_scan.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_view_list_nav_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\zc_desc_item_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\zc_desc_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_singlechoice_material.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_main.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_check_main.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_material.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\btnsbar.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\btnsbar.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_multichoice_material.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_picture_capture.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_picture_capture.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_view.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_view.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_icon.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retrieve_main.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_retrieve_main.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_close_item_material.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_retrieve_result_show.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_retrieve_result_show.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_alert_dialog_button_bar_material.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_alert_dialog_button_bar_material.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_popup_menu_item_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\my_spnnier_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\my_spnnier_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_capture.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_capture.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_check_result_show.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_check_result_show.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_item_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_laser_check.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_laser_check.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_activity_chooser_view_list_item.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_mode_bar.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_manual.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_manual.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_expanded_menu_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_main.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_main.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_checkbox.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_lines.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_lines.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_shepin.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_shepin.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\footer_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\footer_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\mutiplt_lv_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\mutiplt_lv_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_retrieve.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\fragment_retrieve.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_dialog_title_material.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_check.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\fragment_check.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\filter_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\filter_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_bar_up_container.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_media_action.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_media_action.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_list_menu_item_radio.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select_dialog_item_material.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\select_dialog_item_material.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\topbar_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\topbar_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_splash.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\activity_splash.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_media.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_media.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_search_dropdown_item_icons_2line.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\abc_action_menu_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\fragment_settings.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\fragment_settings.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\notification_template_big_media.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\layout\\notification_template_big_media.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\treeview_item.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\treeview_item.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\layout\\group_item_layout.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\layout\\group_item_layout.xml"
+    }
+]

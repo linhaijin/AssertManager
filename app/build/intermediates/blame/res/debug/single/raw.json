@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\realm_properties",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\raw\\realm_properties"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\ok.wav",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\raw\\ok.wav"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\raw\\beep.ogg",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\raw\\beep.ogg"
+    }
+]

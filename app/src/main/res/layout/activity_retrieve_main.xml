@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+     xmlns:xf="http://schemas.android.com/apk/res/com.example.myqr_codescan"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent" >
+
+    <com.example.assertmanager.view.TopBar
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" />
+
+     <com.example.assertmanager.view.SelectionBar
+        android:layout_below="@id/topbar"
+        android:id="@+id/selectionbar"
+        android:layout_width="match_parent"
+        android:layout_height="48dp"
+        xf:flag="retrieve"
+        ></com.example.assertmanager.view.SelectionBar>
+
+    <RelativeLayout
+        android:gravity="center_vertical"
+        android:id="@+id/info_rl"
+        android:layout_width="match_parent"
+        android:layout_height="20dp"
+        android:layout_below="@id/selectionbar"
+        android:background="#ccc"
+        >
+
+        <TextView
+            android:gravity="center_vertical"
+            android:id="@+id/totol_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="@dimen/zc_mx_margin"
+            android:textSize="10sp" />
+
+        <TextView
+             android:gravity="center_vertical"
+            android:id="@+id/show_num"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentRight="true"
+            android:layout_marginRight="@dimen/zc_mx_margin"
+            android:textSize="10sp" />
+    </RelativeLayout>
+
+    <com.example.assertmanager.view.LoadListView
+        android:id="@+id/listView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_below="@id/info_rl" />
+
+</RelativeLayout>

@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/main_background" >
+
+    <com.example.assertmanager.view.TopBar
+        android:id="@+id/topbar"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+    </com.example.assertmanager.view.TopBar>
+
+    <ImageView
+        android:src="@drawable/ic_launcher"
+        android:id="@+id/imageShowIv"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_centerVertical="true"
+        android:layout_marginLeft="@dimen/zc_mx_margin"
+        android:layout_marginRight="@dimen/zc_mx_margin" />
+
+    <Button
+        android:id="@+id/capture_again_btn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="30dp"
+        android:background="@drawable/button1_bg"
+        android:minWidth="200dp"
+        android:text="重拍"
+        android:textColor="@color/white" />
+
+</RelativeLayout>

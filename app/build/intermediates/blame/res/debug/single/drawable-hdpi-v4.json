@@ -1,0 +1,378 @@
+[
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_selectall_mtrl_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_selectall_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_cut_mtrl_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_000.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\divider.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\divider.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_normal.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_normal.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_000.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tabline.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\tabline.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_ab_back_mtrl_am_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_ab_back_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_to_pressed_mtrl_005.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_to_pressed_mtrl_005.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tree_ex.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\tree_ex.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button3_pressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\button3_pressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\splash.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_pressed.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\green_border_unpressed_bg.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\green_border_unpressed_bg.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_menu_normal.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_menu_normal.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_primary_mtrl_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_primary_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_activated_mtrl_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_moreoverflow_mtrl_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_moreoverflow_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_paste_mtrl_am_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_paste_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_copy_mtrl_am_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_copy_mtrl_am_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_longpressed_holo.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_longpressed_holo.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_icon_pressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\settings_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_action_back.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\ic_action_back.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_divider_mtrl_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_divider_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_commit_search_api_mtrl_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_commit_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tree_item_selected.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\tree_item_selected.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_normal.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_normal.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon2.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\icon2.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_clear_mtrl_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_clear_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_popup_background_mtrl_mult.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_popup_background_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\cha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\cha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_radio_to_on_mtrl_015.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_radio_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_voice_search_api_mtrl_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_voice_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mmtitle_bg_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\mmtitle_bg_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00001.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_main_bg.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\check_main_bg.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_icon_1.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\splash_icon_1.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_switch_track_mtrl_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_switch_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_default_mtrl_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\monitor.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\monitor.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\laser_bg.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\laser_bg.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_icon_unpressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\scan_icon_unpressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_menu_share_mtrl_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_menu_share_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_activated_mtrl_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_activated_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_overflow.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\icon_overflow.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_015.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_015.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\shepin_bg.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\shepin_bg.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_tv.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\splash_tv.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\search.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\focus_border.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\focus_border.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_control_off_mtrl_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_control_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_main.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\splash_main.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\tree_ec.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\tree_ec.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_main_button_unpressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\check_main_button_unpressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\retrieve_icon_unpressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\retrieve_icon_unpressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\green_divider.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\green_divider.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\scan_icon_pressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\scan_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\bottom_icon_pressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\bottom_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_tab_indicator_mtrl_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_tab_indicator_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_dark.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\icon_capture_picture.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\icon_capture_picture.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_focused.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_focused.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_icon_unpressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\check_icon_unpressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_btn_focused.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\mm_title_btn_focused.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_switch_to_on_mtrl_00012.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_textfield_search_default_mtrl_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_textfield_search_default_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\qrcode_scan_line.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\qrcode_scan_line.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\mm_title_back_pressed.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\mm_title_back_pressed.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_off_mtrl_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_off_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\top1_bg.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\top1_bg.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\button3_unpressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\button3_unpressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ab_share_pack_mtrl_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ab_share_pack_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_scrubber_track_mtrl_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_scrubber_track_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_focused_holo.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_focused_holo.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_dark.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_dark.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_check_to_on_mtrl_000.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_check_to_on_mtrl_000.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_main_button_pressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\check_main_button_pressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\splash_icon_2.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\splash_icon_2.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_pressed_holo_light.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_pressed_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_spinner_mtrl_am_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_spinner_mtrl_am_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_go_search_api_mtrl_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_go_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_select_arrow.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\ic_select_arrow.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_background.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\main_background.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\retrieve_icon_pressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\retrieve_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\settings_icon_unpressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\settings_icon_unpressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\main_icon.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\main_icon.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\orange_border_pressed_bg.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\orange_border_pressed_bg.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_list_selector_disabled_holo_light.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_list_selector_disabled_holo_light.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_ic_search_api_mtrl_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_ic_search_api_mtrl_alpha.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_cab_background_top_mtrl_alpha.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_cab_background_top_mtrl_alpha.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\edittext_bg.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\edittext_bg.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\check_icon_pressed.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\drawable-hdpi\\check_icon_pressed.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_menu_hardkey_panel_mtrl_mult.9.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_menu_hardkey_panel_mtrl_mult.9.png"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\abc_btn_rating_star_on_mtrl_alpha.png",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\exploded-aar\\com.android.support\\appcompat-v7\\23.1.1\\res\\drawable-hdpi\\abc_btn_rating_star_on_mtrl_alpha.png"
+    }
+]

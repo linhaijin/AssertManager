@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\test.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\menu\\test.xml"
+    },
+    {
+        "merged": "E:\\Workspace\\Android\\AssertManager\\app\\build\\intermediates\\res\\merged\\debug\\menu\\main.xml",
+        "source": "E:\\Workspace\\Android\\AssertManager\\app\\src\\main\\res\\menu\\main.xml"
+    }
+]

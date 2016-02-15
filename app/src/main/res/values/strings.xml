@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">资产清查系统</string>
+    <string name="scan_text">将条码/二维码放入框内, 即可自动扫描</string>
+
+    <string-array name="groups">
+        <item>按科目分组</item>
+        <item>按管理部门分组</item>
+        <item>按使用部门分组</item>
+    </string-array>
+
+    <string name="str_retrieve">检索</string>
+    <string name="str_check">清查</string>
+    <string name="str_settings">设置</string>
+    <string name="str_clear">清空</string>
+    <string name="str_start_check">开始清查</string>
+    <string name="zc_bh">资产编号</string>
+    <string name="zc_km">资产科目</string>
+    <string name="zc_mc">资产名称</string>
+    <string name="zc_ggxh">规格型号</string>
+    <string name="zc_mxsl">数量</string>
+    <string name="zc_dj">单      价</string>
+    <string name="zc_mxje">金额</string>
+    <string name="zc_mxxglbm">管理部门</string>
+    <string name="zc_sybm">使用部门</string>
+    <string name="zc_bgr">保管人员</string>
+    <string name="zc_rq">登记日期</string>
+    <string name="zc_synx">使用年限</string>
+    <string name="zc_jssl">报废数量</string>
+    <string name="zc_jsje">报废金额</string>
+    <string name="zc_xh">凭证号</string>
+    <string name="zc_tzdh">通知单号</string>
+    <string name="zc_zy">摘       要</string>
+    <string name="zc_rkbz">入库标志</string>
+    <string name="scan_str">扫描</string>
+    <string name="shepin_str">射频</string>
+    <string name="tima_str">条码</string>
+    <string name="shoudong_str">手工</string>
+    <string name="zc_mxsyzk">状态</string>
+    <string name="zc_tupian">图片</string>
+    <string name="zc_bh_promt">请输入资产编号</string>
+    <string name="str_confirm">确认</string>
+    <string name="normarl_title">陆军资产管理系统</string>
+    <string name="shepin_retrieve_str">射频</string>
+    <string name="jiguang_retrieve_str">激光</string>
+    <string name="tiaoma_scan_str">扫码</string>
+    <string name="zc_check">资产清查</string>
+    <string name="deviece_retrieve">资产检索</string>
+    <string name="sys_settings">系统设置</string>
+    <string name="str_all">全部</string>
+    <string name="str_match_condition">符合条件: </string>
+    <string name="laser_check">激光</string>
+    <string name="zc_scan">资产扫描</string>
+    <string name="title_activity_test">TestActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+</resources>
